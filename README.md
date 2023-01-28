@@ -3,7 +3,7 @@
  <br>
  U can control mouse just by using your hand.
  <br>
- options provided
+ <B> Features provided </B>
  - moving mouse
  - click
  - scroll
